@@ -1,7 +1,7 @@
 # day10
 Servlet&amp;JSP 수업내용
 
-## 0_Servley/JSP 개요
+## 0_Servlet/JSP 개요
 ### 네트워크 통신
 #### Client - Server Model
 * 클라이언트가 어떤 '요청'을 하는지에 따라 서버가 그 요청에 맞는 '응답'을 해주어야 한다.
